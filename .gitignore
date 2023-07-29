@@ -2,10 +2,10 @@
 # Devenv
 .devenv*
 devenv.local.nix
+.nomessage
 
 # direnv
 .direnv
 
 # pre-commit
 .pre-commit-config.yaml
-

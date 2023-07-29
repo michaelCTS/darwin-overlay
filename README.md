@@ -40,4 +40,5 @@ You can then set the `SYNC_SSH` env var to `$host:$path` where `path` is a path 
 where you would like this folder synced to.
 
 [devenv]: https://devenv.sh/
+[example.nix]: example.nix
 [nixpkgs]: https://github.com/NixOS/nixpkgs
